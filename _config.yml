@@ -25,7 +25,14 @@ markdown: kramdown
 minimal_mistakes_skin: "default"
 
 # 作者資料
+
 author:
   name: "姜焙元"
+  avatar: "/assets/images/profile.jpg"
   bio: "國立臺南女子高級中學 數學專任教師"
   location: "臺灣"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:gmt0321@tngs.tn.edu.tw"
+
