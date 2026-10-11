@@ -1,0 +1,39 @@
+
+---
+# Only the main Sass file needs front matter
+---
+
+@charset "utf-8";
+
+/* 載入 Minimal Mistakes 原始樣式 */
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* 桌面版：增加左右留白 */
+@media (min-width: 1024px) {
+
+  #main {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .masthead__inner-wrap {
+    max-width: 1280px;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+}
+
+/* 手機與平板：保留適當邊距 */
+@media (max-width: 1023px) {
+
+  #main {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+}
