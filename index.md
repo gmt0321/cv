@@ -1,12 +1,13 @@
 ---
-layout: default
-title: 個人簡介
+layout: single
+title: "個人簡介"
+author_profile: true
+permalink: /
 ---
 
 # 姜焙元
 
 **國立臺南女子高級中學 數學專任教師**
-
 
 ## 學歷
 
@@ -24,7 +25,3 @@ title: 個人簡介
 - 科學展覽研究指導
 - 數學教學研討會發表
 - 數學學科中心電子報文章發表
-
----
-
-本網站使用 Jekyll 與 GitHub Pages 建立。
