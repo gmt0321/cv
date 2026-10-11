@@ -1,14 +1,31 @@
 # 網站基本資料
-title: 姜焙元
-description: 數學教學、科學研究指導與專業發表
-lang: zh-TW
+title: "姜焙元"
+subtitle: "個人專業履歷"
+name: "姜焙元"
+description: "數學教學、科學研究指導與專業發表"
+locale: "zh-TW"
 
-# GitHub Pages 網址
+# GitHub Pages
 url: "https://gmt0321.github.io"
 baseurl: "/cv"
+repository: "gmt0321/cv"
 
-# Jekyll 主題
-theme: jekyll-theme-minimal
+# Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Markdown 設定
+# Jekyll Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Markdown
 markdown: kramdown
+
+# 外觀
+minimal_mistakes_skin: "default"
+
+# 作者資料
+author:
+  name: "姜焙元"
+  bio: "國立臺南女子高級中學 數學專任教師"
+  location: "臺灣"
