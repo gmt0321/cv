@@ -5,7 +5,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## 研討會發表
 
 ### 2023 年
 
