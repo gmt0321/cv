@@ -9,12 +9,12 @@ author_profile: true
 
 ### 2025 年
 
-**自指數列的週期現象**
+**[自指數列的週期現象](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=22097&sid=22193)**
 
 中華民國第 65 屆中小學科學展覽會  
 高中組數學科佳作
 
-**[關於正 n 邊形特定分割方式的面積性質](https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=22097&sid=22193)**
+**關於正 n 邊形特定分割方式的面積性質**
 
 第 65 屆國立暨縣市公私立高中分區科學展覽會  
 數學組佳作
