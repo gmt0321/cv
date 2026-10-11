@@ -1,0 +1,15 @@
+main:
+  - title: "個人簡介"
+    url: "/"
+
+  - title: "教學經歷"
+    url: "/teaching/"
+
+  - title: "科展與小論文"
+    url: "/research/"
+
+  - title: "研討會發表"
+    url: "/presentations/"
+
+  - title: "文章著作"
+    url: "/publications/"
