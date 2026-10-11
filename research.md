@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## 科學展覽指導
+## 科展指導
 
 ### 2025 年
 
