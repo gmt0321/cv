@@ -22,7 +22,7 @@ plugins:
 markdown: kramdown
 
 # 外觀
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 # 作者資料
 
