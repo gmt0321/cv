@@ -1,0 +1,14 @@
+# 網站基本資料
+title: 姜焙元
+description: 數學教學、科學研究指導與專業發表
+lang: zh-TW
+
+# GitHub Pages 網址
+url: "https://gmt0321.github.io"
+baseurl: "/cv"
+
+# Jekyll 主題
+theme: jekyll-theme-minimal
+
+# Markdown 設定
+markdown: kramdown
